@@ -6,5 +6,5 @@ RUN apt-get update -y && apt-get upgrade -y \
 COPY . /app/
 WORKDIR /app/
 RUN git clone https://github.com/Padget123/NewPlayer NewPlayer
-RUN cd NewPlayer && pip3 install -U -r requirements.txt
+RUN cd NewPlayer && pip3 install -U -r Installer
 CMD cd NewPlayer && bash start
