@@ -5,6 +5,6 @@ RUN apt-get update -y && apt-get upgrade -y \
     && rm -rf /var/lib/apt/lists/*
 COPY . /app/
 WORKDIR /app/
-RUN git clone https://github.com/Team-Alisha/Alisha Alisha
-RUN cd Alisha && pip3 install -U -r requirements.txt
-CMD cd Alisha && bash start
+RUN git clone https://github.com/Padget123/NewPlayer NewPlayer
+RUN cd NewPlayer && pip3 install -U -r requirements.txt
+CMD cd NewPlayer && bash start
