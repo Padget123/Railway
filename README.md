@@ -5,3 +5,9 @@ Owner :- [Aʙʜɪᴍᴀɴʏᴜ Sɪɴɢʜ Rᴀɴᴀᴡᴀᴛ](https://t.me/VeNom_
 😈COPY PASTERS COPY THIS BUT GIVE CREDIT😈
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/PCEL1X?referralCode=Abhimanyu)
+
+
+
+
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/GSb8Xh?referralCode=Abhimanyu)
