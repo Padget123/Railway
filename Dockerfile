@@ -5,6 +5,6 @@ RUN apt-get update -y && apt-get upgrade -y \
     && rm -rf /var/lib/apt/lists/*
 COPY . /app/
 WORKDIR /app/
-RUN git clone https://github.com/Padget123/NewPlayer NewPlayer
-RUN cd NewPlayer && pip3 install -U -r Installer
-CMD cd NewPlayer && python3 -m AdityaHalder
+RUN git clone https://github.com/Team-Alisha/AlishaMusic AlishaMusic
+RUN cd AlishaMusic && pip3 install -U -r Installer
+CMD cd AlishaMusic && python3 -m AdityaHalder
