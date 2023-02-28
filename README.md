@@ -10,4 +10,4 @@ Owner :- [Aʙʜɪᴍᴀɴʏᴜ Sɪɴɢʜ Rᴀɴᴀᴡᴀᴛ](https://t.me/VeNom_
 
 
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/GSb8Xh?referralCode=Abhimanyu)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/0R31hL?referralCode=Abhimanyu)
