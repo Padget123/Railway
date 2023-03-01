@@ -5,6 +5,6 @@ RUN apt-get update -y && apt-get upgrade -y \
     && rm -rf /var/lib/apt/lists/*
 COPY . /app/
 WORKDIR /app/
-RUN git clone https://github.com/Team-Alisha/King
-RUN cd King && pip3 install -U -r requirements.txt
-CMD cd King && bash start
+RUN git clone https://github.com/Team-Alisha/AlishaMusic
+RUN cd AlishaMusic && pip3 install -U -r requirements.txt
+CMD cd AlishaMusic && bash start
